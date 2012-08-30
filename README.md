@@ -1,4 +1,4 @@
 MarsExploration
 ===============
 
-Multi-agent Mars exploration simulator
+Multi-agent Mars exploration simulator. Uses Repast framework.
